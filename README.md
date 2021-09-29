@@ -14,5 +14,7 @@
 
 ###
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandermorozlive&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&count_private=true" alt="AlexanderMorozLive's GitHub stats" /> | <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermorozlive&layout=compact&theme=radical&hide_border=true" /> |
+
+
+| <div style="width: 100%; height: 100%; background-color: red"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandermorozlive&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&count_private=true" alt="AlexanderMorozLive's GitHub stats" /></div> | <div style="width: 100%; height: 100%; background-color: red"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermorozlive&layout=compact&theme=radical&hide_border=true" /></div> |
 | ------------- | ------------- |
