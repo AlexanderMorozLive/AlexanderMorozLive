@@ -13,5 +13,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)](https://t.me/MrNem0)
 
 ###
-[![AlexanderMorozLive's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandermorozlive&show_icons=true&theme=radical)
-](https://github.com/anuraghazra/github-readme-stats)
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandermorozlive&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&count_private=true" alt="AlexanderMorozLive's GitHub stats" /> | <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermorozlive&layout=compact&theme=radical&hide_border=true" /> |
+| ------------- | ------------- |
