@@ -48,8 +48,8 @@
                 }
             </style>
             <div class="container">
-                <img style="width: 100%;" align="center" src="https://github-readme-stats.vercel.app/api?username=alexandermorozlive&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&title_color=ef3e86&text_color=61dafb&icon_color=282c34" alt="AlexanderMorozLive's GitHub stats" />
-                <p>Click to see the source</p>
+                <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=alexandermorozlive&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&title_color=ef3e86&text_color=61dafb&icon_color=282c34" alt="AlexanderMorozLive's GitHub stats" />
+                <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermorozlive&layout=compact&hide_border=true&title_color=ef3e86&text_color=61dafb" />
             </div>
         </div>
     </foreignObject>

@@ -20,10 +20,8 @@
 
 <div align="center">
 	<br>
-	<a href="https://github.com/alexandermorozlive/alexandermorozlive/assets/circle2.svg">
-		<img src="/assets/circle2.svg" width="800" height="400" alt="Click to see the source">
+	<a href="https://github.com/alexandermorozlive/alexandermorozlive/aseets/circle2.svg">
 		<img src="assets/circle2.svg" width="800" height="400" alt="Click to see the source">
-		<img src="https://github.com/alexandermorozlive/alexandermorozlive/aseets/circle2.svg" width="800" height="400" alt="Click to see the source">
 	</a>
 	<br>
 </div>
