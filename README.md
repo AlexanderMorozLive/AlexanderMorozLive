@@ -1,6 +1,6 @@
-[![Header](https://github.com/AlexanderMorozLive/AlexanderMorozLive/blob/main/assets/react.gif)](https://github.com/AlexanderMorozLive)
+[![Header](https://github.com/AlexanderMorozLive/AlexanderMorozLive/blob/main/assets/git-logo.png)](https://github.com/AlexanderMorozLive)
 
-### git I am a software engineer.
+### I am a software engineer.
 
 ### Language and tools
 ![Javascript](https://img.shields.io/badge/-javascript-282c34?style=for-the-badge&logo=javascript)
