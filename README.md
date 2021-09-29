@@ -14,5 +14,24 @@
 
 ###
 
-| <img style="width: 100%;" align="center" src="https://github-readme-stats.vercel.app/api?username=alexandermorozlive&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&title_color=d83a7c&text_color=0bd5c5&icon_color=f99f1b" alt="AlexanderMorozLive's GitHub stats" /> |  <img style="width: 100%;" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermorozlive&layout=compact&hide_border=true&title_color=d83a7c&text_color=0bd5c5" /> |
+| <img style="width: 100%;" align="center" src="https://github-readme-stats.vercel.app/api?username=alexandermorozlive&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&title_color=ef3e86&text_color=61dafb&icon_color=282c34" alt="AlexanderMorozLive's GitHub stats" /> |  <img style="width: 100%;" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermorozlive&layout=compact&hide_border=true&title_color=ef3e86&text_color=61dafb" /> |
 | :----- | -----: |
+
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+                    margin: 0;
+					width: 100%;
+					height: 200px;
+					background: #282c34;
+				}
+			</style>
+			<div class="container">
+				<img style="width: 100%;" align="center" src="https://github-readme-stats.vercel.app/api?username=alexandermorozlive&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=radical" alt="AlexanderMorozLive's GitHub stats" />
+				<img style="width: 100%;" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermorozlive&layout=compact&hide_border=true&theme=radical" />
+			</div>
+		</div>
+	</foreignObject>
+</svg>
