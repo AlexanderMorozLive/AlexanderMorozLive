@@ -1,4 +1,3 @@
-<?xml version="1.0"?>
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -48,8 +47,8 @@
                 }
             </style>
             <div class="container">
-                <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=alexandermorozlive&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&title_color=ef3e86&text_color=61dafb&icon_color=282c34" alt="AlexanderMorozLive's GitHub stats" />
-                <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermorozlive&layout=compact&hide_border=true&title_color=ef3e86&text_color=61dafb" />
+                <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=alexandermorozlivelor=ef3e86" alt="AlexanderMorozLive's GitHub stats" />
+                <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermorozlive" />
             </div>
         </div>
     </foreignObject>
