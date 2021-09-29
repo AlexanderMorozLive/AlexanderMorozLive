@@ -14,13 +14,5 @@
 
 ###
 
-<table style="background-color: #141321">
-    <tr>
-        <td style="width: 50%;">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandermorozlive&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&count_private=true" alt="AlexanderMorozLive's GitHub stats" />
-        </td>
-        <td>
-            <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermorozlive&layout=compact&theme=radical&hide_border=true" />
-        </td>
-    </tr>
-</table>
+| <img style="width: 100%;" align="center" src="https://github-readme-stats.vercel.app/api?username=alexandermorozlive&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&title_color=d83a7c&text_color=0bd5c5&icon_color=f99f1b" alt="AlexanderMorozLive's GitHub stats" /> |  <img style="width: 100%;" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermorozlive&layout=compact&hide_border=true&title_color=d83a7c&text_color=0bd5c5" /> |
+| :----- | -----: |
