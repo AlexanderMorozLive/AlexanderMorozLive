@@ -16,12 +16,3 @@
 
 | <img style="width: 100%;" align="center" src="https://github-readme-stats.vercel.app/api?username=alexandermorozlive&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&title_color=ef3e86&text_color=61dafb&icon_color=282c34" alt="AlexanderMorozLive's GitHub stats" /> |  <img style="width: 100%;" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermorozlive&layout=compact&hide_border=true&title_color=ef3e86&text_color=61dafb" /> |
 | :----- | -----: |
-
-
-<div align="center">
-	<br>
-	<a href="https://github.com/alexandermorozlive/alexandermorozlive/aseets/circle2.svg">
-		<img src="assets/circle2.svg" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
-</div>
