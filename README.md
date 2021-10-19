@@ -1,4 +1,4 @@
-[![Header](https://github.com/AlexanderMorozLive/AlexanderMorozLive/blob/main/assets/git-logo.png)]
+[![Header](https://github.com/AlexanderMorozLive/AlexanderMorozLive/blob/main/assets/git-logo.png)](https://github.com/AlexanderMorozLive)
 
 ### I am a JavaScript engineer.
 
